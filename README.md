@@ -9,4 +9,4 @@ Analyze.py retrieves the most related information to the user queries and output
 
 Generation.py generates the final PowerPoint.
 
-Run code streamlit run main.py in the terminal to start the application.
+Run code `streamlit run main.py` in the terminal to start the application.
